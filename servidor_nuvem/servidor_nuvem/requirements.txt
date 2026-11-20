@@ -1,1 +1,0 @@
-# Este servidor nao usa nenhuma biblioteca externa (so o Python padrao).
